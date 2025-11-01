@@ -1,3 +1,15 @@
+# User placement
+raw/
+dev/
+
+*.csv
+**/*.csv
+
+
+# MacOS
+.DS_Store
+
+
 # Logs
 logs
 *.log
